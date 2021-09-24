@@ -1,5 +1,3 @@
-ICDM 2021 submission's code
-
 # MuViTaNet - A Multi-View Multi-Task Network for Complication Risk Profiling
 -----------------------------------------------------------------
 
