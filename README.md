@@ -4,6 +4,7 @@ ICDM 2021 submission's code
 -----------------------------------------------------------------
 
 ## 1. Introduction
+This repository contains source code (MuViTaNet) for paper "Cardiac Complication Risk Profiling for Cancer Survivors via Multi-View Multi-Task Learning" (**ICDM 2021**).
 **MuViTaNet** is a Python implementation of the multi-view multi-task network for predicting the onset of multiple 
 complications. In particular, **MuViTaNet** complements patient representation by using a multi-view encoder to effectively 
 extract information by considering clinical data as both sequences of clinical visits and sets of clinical features. 
